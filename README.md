@@ -32,9 +32,10 @@ In our college, there is currently no efficient and quick system for students an
 (Refer env.example for the variable names)
 
 - after cloning or forking the repository use,
+  ```bash
     $npm i on the terminal
   
-  then
+ then
 
 - Run the server
     ```shell
